@@ -1,13 +1,11 @@
-### Hi there 👋
-
-Here are some ideas to get you started:
+### Welcome to My Profile 👋
 
 - 🔭 I’m currently working on Flutter
 - 🌱 I’m currently learning NodeJS
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with UI -->
 <!-- - 💬 Ask me about ... -->
-- 📫 How to reach me: [Linkedin]: https:linkedin.com/in/dhruvarora91
+- 📫 How to reach me: [Linkedin](https:linkedin.com/in/dhruvarora91)
 - 😄 Pronouns: He/Him
 <!-- - ⚡ Fun fact: ... -->
 
