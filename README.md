@@ -5,7 +5,7 @@
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with UI -->
 <!-- - 💬 Ask me about ... -->
-- 📫 How to reach me: [Linkedin](https:linkedin.com/in/dhruvarora91)
+- 📫 How to reach me: [Linkedin](https://linkedin.com/in/dhruvarora91)
 - 😄 Pronouns: He/Him
 <!-- - ⚡ Fun fact: ... -->
 
